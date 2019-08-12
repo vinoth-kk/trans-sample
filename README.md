@@ -21,4 +21,8 @@ Note: For the demo purpose, it is assumed that the values will be given in a pro
 ## Below command can be used to run the test cases
 
 mvn test
+
+**Assumptions:
+- CSV file containing transaction data is already available inside the project (inside resources folder)
+- This is implementation is pure java, no UI work involved
  
